@@ -77,6 +77,8 @@ http://localhost:5000
 * Adrian Czarnota 21442
 * Dawid Rzepka 21299
 
+---
+
 ## 🔗 Repozytorium
 https://github.com/rzepeeek/Projekt_Python_Scraping/tree/main/WEB-SCRAPER-PROJECT
 
